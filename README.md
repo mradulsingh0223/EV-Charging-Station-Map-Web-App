@@ -1,8 +1,10 @@
 ## Test Assignment 
 
-This is a test web app that gets EV (electric vehicle) Charging stations from the Virta Api and pins them on the map. On pin clicked there is Info Window with station's details (name and EV Chargers' status). 
+This is a web app that gets EV (electric vehicle) Charging stations from the Virta Api and pins them on the map. On pin clicked there is Info Window with station's details (name and EV Chargers' status). 
 
-In this project I used :
+In this project:
+Technologies used:
+
 - React.js, 
 - react-google-maps, 
 - Webstorm as IDE, 
